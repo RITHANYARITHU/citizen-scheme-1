@@ -1,0 +1,7 @@
+# Tested target: Python 3.11-3.14. Core demo data and retrieval use only the standard library.
+streamlit>=1.35,<2
+langgraph>=0.2.60,<2
+chromadb>=0.5.5,<2
+mcp>=1.2,<2
+tavily-python>=0.4,<2
+pytest>=8,<9
